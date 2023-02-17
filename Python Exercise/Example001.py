@@ -13,6 +13,6 @@ def calculate(x,y):
 
 var1=int(input("Enter the first number"))
 var2=int(input("Enter the second number"))
-print(calculate(var1,var2))
+print("The calculation function of ", var1, "and ", var2, "returns ", calculate(var1,var2))
 
 

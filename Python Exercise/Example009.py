@@ -20,4 +20,5 @@ if num - revnum ==0:
 else:
     print(num," is not a Palindrome number")
 
+
 #logic to reverse the number

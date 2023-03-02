@@ -21,7 +21,7 @@ print(len(str))
 #Learning about list variable
 list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]
 print(list[0])
-print(list[1])
+print(list[-1])
 print(list[0][0])
 list[1]=1000
 print(list)
